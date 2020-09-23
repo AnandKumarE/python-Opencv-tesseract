@@ -1,2 +1,2 @@
 # python-Opencv-tesseract
-Detecting face and identtifying people using Opencv-python. 
+Face Detection and identifying project using Opencv-python as a part of university of Michigan's Python3 programming specialization.
